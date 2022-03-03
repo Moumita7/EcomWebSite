@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.header{
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px;
+  background-color: #CAD5E2;
+  font-size: 30px;
+  cursor: pointer;
+ 
+  
+}
+
+.cart{
+  width: 50%;
+}
